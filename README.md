@@ -313,4 +313,4 @@ Devuelve el número de puntos y los recuentos por `source` para diagnóstico rá
   🔗 [LinkedIn](https://www.linkedin.com/in/ana-belén-ballesteros-redondo/)
 
 📑 **Memoria del proyecto:**  
-[Descargar PDF](docs/memoria-informe-audiovisual-2025.pdf) — documento completo de diseño, resultados y análisis.
+[Visualizar PDF](docs/memoria-informe-audiovisual-2025.pdf) — documento completo de diseño, resultados y análisis.
