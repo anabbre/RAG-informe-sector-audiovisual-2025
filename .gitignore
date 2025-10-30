@@ -1,0 +1,29 @@
+# Python / tools
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Entornos
+.venv/
+venv/
+
+# Secretos
+.env
+!.env.example
+
+# OS
+.DS_Store
+
+# Datos locales
+data/interim/*
+data/processed/*
+qdrant_data/** 
+!data/raw/
+
+# VSCode
+.vscode/

@@ -1,0 +1,12 @@
+qdrant-client
+sentence-transformers
+pdfminer.six
+PyMuPDF
+fastapi
+uvicorn
+python-dotenv
+rich
+typer 
+google-generativeai==0.8.3
+numpy
+python-multipart 
